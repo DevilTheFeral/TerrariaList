@@ -20,7 +20,7 @@
     },
     {
       "Name": "EyeofCthulhu",
-      "Price": 2974.0,
+      "Price": 29740.0,
       "ID": 4,
       "Mod": "Vanilla"
     },
@@ -50,7 +50,7 @@
     },
     {
       "Name": "EaterofWorlds",
-      "Price": 289.0,
+      "Price": 28900.0,
       "ID": 13,
       "Mod": "Vanilla"
     },
@@ -170,7 +170,7 @@
     },
     {
       "Name": "Skeletron",
-      "Price": 4740.0,
+      "Price": 47400.0,
       "ID": 35,
       "Mod": "Vanilla"
     },
@@ -242,7 +242,7 @@
     },
     {
       "Name": "KingSlime",
-      "Price": 2420.0,
+      "Price": 24200.0,
       "ID": 50,
       "Mod": "Vanilla"
     },
@@ -608,19 +608,19 @@
     },
     {
       "Name": "Retinazer",
-      "Price": 20470.0,
+      "Price": 204700.0,
       "ID": 125,
       "Mod": "Vanilla"
     },
     {
       "Name": "Spazmatism",
-      "Price": 23520.0,
+      "Price": 235200.0,
       "ID": 126,
       "Mod": "Vanilla"
     },
     {
       "Name": "SkeletronPrime",
-      "Price": 28518.0,
+      "Price": 285180.0,
       "ID": 127,
       "Mod": "Vanilla"
     },
@@ -638,7 +638,7 @@
     },
     {
       "Name": "TheDestroyer",
-      "Price": 80700.0,
+      "Price": 807000.0,
       "ID": 134,
       "Mod": "Vanilla"
     },
@@ -1022,7 +1022,7 @@
     },
     {
       "Name": "PirateCaptain",
-      "Price": 3760.0,
+      "Price": 37600.0,
       "ID": 216,
       "Mod": "Vanilla"
     },
@@ -1058,7 +1058,7 @@
     },
     {
       "Name": "QueenBee",
-      "Price": 3716.0,
+      "Price": 37160.0,
       "ID": 222,
       "Mod": "Vanilla"
     },
@@ -1160,7 +1160,7 @@
     },
     {
       "Name": "Golem",
-      "Price": 9772.0,
+      "Price": 97720.0,
       "ID": 245,
       "Mod": "Vanilla"
     },
@@ -1232,7 +1232,7 @@
     },
     {
       "Name": "Plantera",
-      "Price": 30528.0,
+      "Price": 305280.0,
       "ID": 262,
       "Mod": "Vanilla"
     },
@@ -1244,7 +1244,7 @@
     },
     {
       "Name": "BrainofCthulhu",
-      "Price": 1328.0,
+      "Price": 13280.0,
       "ID": 266,
       "Mod": "Vanilla"
     },
@@ -1400,7 +1400,7 @@
     },
     {
       "Name": "HeadlessHorseman",
-      "Price": 11380.0,
+      "Price": 113800.0,
       "ID": 315,
       "Mod": "Vanilla"
     },
@@ -1430,7 +1430,7 @@
     },
     {
       "Name": "Pumpking",
-      "Price": 22572.0,
+      "Price": 225720.0,
       "ID": 327,
       "Mod": "Vanilla"
     },
@@ -1484,19 +1484,19 @@
     },
     {
       "Name": "Everscream",
-      "Price": 14176.0,
+      "Price": 141760.0,
       "ID": 344,
       "Mod": "Vanilla"
     },
     {
       "Name": "IceQueen",
-      "Price": 35276.0,
+      "Price": 352760.0,
       "ID": 345,
       "Mod": "Vanilla"
     },
     {
       "Name": "Santa-NK1",
-      "Price": 19312.0,
+      "Price": 193120.0,
       "ID": 346,
       "Mod": "Vanilla"
     },
@@ -1610,7 +1610,7 @@
     },
     {
       "Name": "DukeFishron",
-      "Price": 51100.0,
+      "Price": 511000.0,
       "ID": 370,
       "Mod": "Vanilla"
     },
@@ -1862,7 +1862,7 @@
     },
     {
       "Name": "VortexPillar",
-      "Price": 20040.0,
+      "Price": 200400.0,
       "ID": 422,
       "Mod": "Vanilla"
     },
@@ -1910,7 +1910,7 @@
     },
     {
       "Name": "MysteriousTablet",
-      "Price": 400.0,
+      "Price": 400000.0,
       "ID": 437,
       "Mod": "Vanilla"
     },
@@ -1922,7 +1922,7 @@
     },
     {
       "Name": "LunaticCultist",
-      "Price": 32584.0,
+      "Price": 325840.0,
       "ID": 439,
       "Mod": "Vanilla"
     },
@@ -1934,43 +1934,43 @@
     },
     {
       "Name": "GoldBird",
-      "Price": 5.0,
+      "Price": 500.0,
       "ID": 442,
       "Mod": "Vanilla"
     },
     {
       "Name": "GoldBunny",
-      "Price": 5.0,
+      "Price": 500.0,
       "ID": 443,
       "Mod": "Vanilla"
     },
     {
       "Name": "GoldButterfly",
-      "Price": 5.0,
+      "Price": 500.0,
       "ID": 444,
       "Mod": "Vanilla"
     },
     {
       "Name": "GoldFrog",
-      "Price": 5.0,
+      "Price": 500.0,
       "ID": 445,
       "Mod": "Vanilla"
     },
     {
       "Name": "GoldGrasshopper",
-      "Price": 5.0,
+      "Price": 500.0,
       "ID": 446,
       "Mod": "Vanilla"
     },
     {
       "Name": "GoldMouse",
-      "Price": 5.0,
+      "Price": 500.0,
       "ID": 447,
       "Mod": "Vanilla"
     },
     {
       "Name": "GoldWorm",
-      "Price": 5.0,
+      "Price": 500.0,
       "ID": 448,
       "Mod": "Vanilla"
     },
@@ -2054,7 +2054,7 @@
     },
     {
       "Name": "GoblinSummoner",
-      "Price": 2852.0,
+      "Price": 285200.0,
       "ID": 471,
       "Mod": "Vanilla"
     },
@@ -2066,31 +2066,31 @@
     },
     {
       "Name": "CorruptMimic",
-      "Price": 4468.0,
+      "Price": 44680.0,
       "ID": 473,
       "Mod": "Vanilla"
     },
     {
       "Name": "CrimsonMimic",
-      "Price": 4468.0,
+      "Price": 44680.0,
       "ID": 474,
       "Mod": "Vanilla"
     },
     {
       "Name": "HallowedMimic",
-      "Price": 4468.0,
+      "Price": 44680.0,
       "ID": 475,
       "Mod": "Vanilla"
     },
     {
       "Name": "JungleMimic",
-      "Price": 4468.0,
+      "Price": 44680.0,
       "ID": 476,
       "Mod": "Vanilla"
     },
     {
       "Name": "Mothron",
-      "Price": 6860.0,
+      "Price": 68600.0,
       "ID": 477,
       "Mod": "Vanilla"
     },
@@ -2168,7 +2168,7 @@
     },
     {
       "Name": "FlyingDutchman",
-      "Price": 250.0,
+      "Price": 250000.0,
       "ID": 491,
       "Mod": "Vanilla"
     },
@@ -2210,7 +2210,7 @@
     },
     {
       "Name": "NebulaPillar",
-      "Price": 20040.0,
+      "Price": 200400.0,
       "ID": 507,
       "Mod": "Vanilla"
     },
@@ -2270,7 +2270,7 @@
     },
     {
       "Name": "SolarPillar",
-      "Price": 20040.0,
+      "Price": 200400.0,
       "ID": 517,
       "Mod": "Vanilla"
     },
@@ -2390,7 +2390,7 @@
     },
     {
       "Name": "GoldSquirrel",
-      "Price": 5.0,
+      "Price": 500.0,
       "ID": 539,
       "Mod": "Vanilla"
     },
@@ -2444,7 +2444,7 @@
     },
     {
       "Name": "Betsy",
-      "Price": 50876.0,
+      "Price": 508760.0,
       "ID": 551,
       "Mod": "Vanilla"
     },
@@ -2486,7 +2486,7 @@
     },
     {
       "Name": "DarkMage",
-      "Price": 1236.0,
+      "Price": 12360.0,
       "ID": 564,
       "Mod": "Vanilla"
     },
@@ -2522,7 +2522,7 @@
     },
     {
       "Name": "Ogre",
-      "Price": 5768.0,
+      "Price": 57680.0,
       "ID": 576,
       "Mod": "Vanilla"
     },
@@ -2540,7 +2540,7 @@
     },
     {
       "Name": "AncientMachine",
-      "Price": 8028.0,
+      "Price": 80280.0,
       "ID": 580,
       "Mod": "QwertysRandomContent.QwertysRandomContent"
     },
@@ -2558,31 +2558,31 @@
     },
     {
       "Name": "Imperious",
-      "Price": 25734.0,
+      "Price": 257340.0,
       "ID": 583,
       "Mod": "QwertysRandomContent.QwertysRandomContent"
     },
     {
       "Name": "Imperious",
-      "Price": 25734.0,
+      "Price": 257340.0,
       "ID": 584,
       "Mod": "QwertysRandomContent.QwertysRandomContent"
     },
     {
       "Name": "",
-      "Price": 100100.0,
+      "Price": 10010000.0,
       "ID": 585,
       "Mod": "QwertysRandomContent.QwertysRandomContent"
     },
     {
       "Name": "OversizedLaser-emittingObliterationRadiation-emittingDestroyer",
-      "Price": 120800.0,
+      "Price": 1208000.0,
       "ID": 586,
       "Mod": "QwertysRandomContent.QwertysRandomContent"
     },
     {
       "Name": "Noehtnap",
-      "Price": 5824.0,
+      "Price": 58240.0,
       "ID": 587,
       "Mod": "QwertysRandomContent.QwertysRandomContent"
     },
@@ -2654,7 +2654,7 @@
     },
     {
       "Name": "HydraHead",
-      "Price": 2536.0,
+      "Price": 25360.0,
       "ID": 599,
       "Mod": "QwertysRandomContent.QwertysRandomContent"
     },
@@ -2666,7 +2666,7 @@
     },
     {
       "Name": "RuneGhost",
-      "Price": 60084.0,
+      "Price": 600840.0,
       "ID": 601,
       "Mod": "QwertysRandomContent.QwertysRandomContent"
     },
@@ -2684,7 +2684,7 @@
     },
     {
       "Name": "TheGreatTyrannosaurus",
-      "Price": 29044.0,
+      "Price": 290440.0,
       "ID": 604,
       "Mod": "QwertysRandomContent.QwertysRandomContent"
     },
