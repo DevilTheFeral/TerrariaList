@@ -350,7 +350,7 @@
     },
     {
       "Name": "DungeonGuardian",
-      "Price": 39997.0,
+      "Price": 150000.0,
       "ID": 68,
       "Mod": "Vanilla"
     },
@@ -2537,6 +2537,204 @@
       "Price": 380.0,
       "ID": 579,
       "Mod": "Vanilla"
+    },
+    {
+      "Name": "AncientMachine",
+      "Price": 8028.0,
+      "ID": 580,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AncientMinion",
+      "Price": 486.0,
+      "ID": 581,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AntiAir",
+      "Price": 2040.0,
+      "ID": 582,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Imperious",
+      "Price": 25734.0,
+      "ID": 583,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Imperious",
+      "Price": 25734.0,
+      "ID": 584,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "",
+      "Price": 100100.0,
+      "ID": 585,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "OversizedLaser-emittingObliterationRadiation-emittingDestroyer",
+      "Price": 120800.0,
+      "ID": 586,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Noehtnap",
+      "Price": 5824.0,
+      "ID": 587,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HighPreist",
+      "Price": 312.0,
+      "ID": 588,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Mollusket",
+      "Price": 301.0,
+      "ID": 589,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressHarpy",
+      "Price": 886.0,
+      "ID": 590,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "GuardTile",
+      "Price": 1740.0,
+      "ID": 591,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "EnchantedTile",
+      "Price": 476.0,
+      "ID": 592,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Swarm",
+      "Price": 231.0,
+      "ID": 593,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressSwarmer",
+      "Price": 220.0,
+      "ID": 594,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "YoungTile",
+      "Price": 346.0,
+      "ID": 595,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TheDivineLight",
+      "Price": 4464.0,
+      "ID": 596,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HealingBarrier",
+      "Price": 144.0,
+      "ID": 597,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Hydra",
+      "Price": 48.0,
+      "ID": 598,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HydraHead",
+      "Price": 2536.0,
+      "ID": 599,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Mosquitto",
+      "Price": 11.0,
+      "ID": 600,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RuneGhost",
+      "Price": 60084.0,
+      "ID": 601,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "SharkWithFrickenLaserBeams!",
+      "Price": 704.0,
+      "ID": 602,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "SneakingGhost",
+      "Price": 1336.0,
+      "ID": 603,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TheGreatTyrannosaurus",
+      "Price": 29044.0,
+      "ID": 604,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Triceratank",
+      "Price": 3080.0,
+      "ID": 605,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AgentPenguin",
+      "Price": 18.0,
+      "ID": 606,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FlyingPenguin",
+      "Price": 18.0,
+      "ID": 607,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PolarExterminator",
+      "Price": 2016.0,
+      "ID": 608,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ZZZZZ...",
+      "Price": 200.0,
+      "ID": 609,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "SlidingPenguin",
+      "Price": 233.0,
+      "ID": 610,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Utahraptor",
+      "Price": 1076.0,
+      "ID": 611,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Velocichopper",
+      "Price": 10960.0,
+      "ID": 612,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
     }
   ]
 }

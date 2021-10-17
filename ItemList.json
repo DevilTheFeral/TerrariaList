@@ -1100,7 +1100,7 @@
     },
     {
       "Name": "GlowingMushroom",
-      "Price": 50.0,
+      "Price": 800000.0,
       "ID": 183,
       "Mod": "Vanilla"
     },
@@ -1676,7 +1676,7 @@
     },
     {
       "Name": "ThrowingKnife",
-      "Price": 50.0,
+      "Price": 800000.0,
       "ID": 279,
       "Mod": "Vanilla"
     },
@@ -9254,7 +9254,7 @@
     },
     {
       "Name": "FlowingMagma",
-      "Price": 5000.0,
+      "Price": 800000.0,
       "ID": 1542,
       "Mod": "Vanilla"
     },
@@ -12044,7 +12044,7 @@
     },
     {
       "Name": "GlowingSnail",
-      "Price": 25000.0,
+      "Price": 800000.0,
       "ID": 2007,
       "Mod": "Vanilla"
     },
@@ -13052,7 +13052,7 @@
     },
     {
       "Name": "GlowingSnailCage",
-      "Price": 10.0,
+      "Price": 800000.0,
       "ID": 2175,
       "Mod": "Vanilla"
     },
@@ -18116,7 +18116,7 @@
     },
     {
       "Name": "HellwingBow",
-      "Price": 200000.0,
+      "Price": 800000.0,
       "ID": 3019,
       "Mod": "Vanilla"
     },
@@ -18248,7 +18248,7 @@
     },
     {
       "Name": "GlowingMushroomDye",
-      "Price": 37500.0,
+      "Price": 800000.0,
       "ID": 3041,
       "Mod": "Vanilla"
     },
@@ -20276,7 +20276,7 @@
     },
     {
       "Name": "BoneThrowingKnife",
-      "Price": 50.0,
+      "Price": 800000.0,
       "ID": 3379,
       "Mod": "Vanilla"
     },
@@ -23779,22 +23779,2698 @@
       "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
     },
     {
-      "Name": "AndromedonHead",
+      "Name": "Guildpack'sHead",
       "Price": 10.0,
       "ID": 3963,
       "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
     },
     {
-      "Name": "AndromedonBody",
+      "Name": "Guildpack'sBody",
       "Price": 10.0,
       "ID": 3964,
       "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
     },
     {
-      "Name": "AndromedonLegs",
+      "Name": "Guildpack'sLegs",
       "Price": 10.0,
       "ID": 3965,
       "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Elfinlocks'Head",
+      "Price": 10.0,
+      "ID": 3966,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Elfinlocks'Body",
+      "Price": 10.0,
+      "ID": 3967,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Elfinlocks'Legs",
+      "Price": 10.0,
+      "ID": 3968,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "AetherBreaker'sHead",
+      "Price": 10.0,
+      "ID": 3969,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "AetherBreaker'sBody",
+      "Price": 10.0,
+      "ID": 3970,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "AetherBreaker'sLegs",
+      "Price": 10.0,
+      "ID": 3971,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "AetherBreaker'sWings",
+      "Price": 10.0,
+      "ID": 3972,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "WitchDaggah'sHead",
+      "Price": 10.0,
+      "ID": 3973,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Sailing_Squid'sHead",
+      "Price": 10.0,
+      "ID": 3974,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Sailing_Squid'sBody",
+      "Price": 10.0,
+      "ID": 3975,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Sailing_Squid'sLegs",
+      "Price": 10.0,
+      "ID": 3976,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Sailing_Squid'sWings",
+      "Price": 10.0,
+      "ID": 3977,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Coolmike5000'sHead",
+      "Price": 10.0,
+      "ID": 3978,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Coolmike5000'sBody",
+      "Price": 10.0,
+      "ID": 3979,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Coolmike5000'sLegs",
+      "Price": 10.0,
+      "ID": 3980,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Coolmike5000'sWings",
+      "Price": 10.0,
+      "ID": 3981,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Zeph'sHead",
+      "Price": 10.0,
+      "ID": 3982,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Zeph'sBody",
+      "Price": 10.0,
+      "ID": 3983,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Zeph'sLegs",
+      "Price": 10.0,
+      "ID": 3984,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Zeph'sWings",
+      "Price": 10.0,
+      "ID": 3985,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "AndromedonHead",
+      "Price": 10.0,
+      "ID": 3986,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "AndromedonBody",
+      "Price": 10.0,
+      "ID": 3987,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "AndromedonLegs",
+      "Price": 10.0,
+      "ID": 3988,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "DiscordHook",
+      "Price": 20000.0,
+      "ID": 3989,
+      "Mod": "DiscordHook.DiscordHook"
+    },
+    {
+      "Name": "AerodynamicFins",
+      "Price": 10000.0,
+      "ID": 3990,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ArcaneArmorBreaker",
+      "Price": 50000.0,
+      "ID": 3991,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ArcherGlove",
+      "Price": 10000.0,
+      "ID": 3992,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Biomass",
+      "Price": 10000.0,
+      "ID": 3993,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BlessedMedallion",
+      "Price": 1000.0,
+      "ID": 3994,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BloodyMedallion",
+      "Price": 1000.0,
+      "ID": 3995,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BookofMinionTactics",
+      "Price": 200000.0,
+      "ID": 3996,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BrutalNecklace",
+      "Price": 150000.0,
+      "ID": 3997,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ConspiratorEmblem",
+      "Price": 100000.0,
+      "ID": 3998,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "EnchantedWhetstone",
+      "Price": 10000.0,
+      "ID": 3999,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FieryWhetstone",
+      "Price": 10000.0,
+      "ID": 4000,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Gemini'sQuiver",
+      "Price": 200000.0,
+      "ID": 4001,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "GuardEmblem",
+      "Price": 750000.0,
+      "ID": 4002,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Gyroscope",
+      "Price": 10000.0,
+      "ID": 4003,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "H.Y.D.R.A",
+      "Price": 200000.0,
+      "ID": 4004,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HydratedSkull",
+      "Price": 200000.0,
+      "ID": 4005,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "JavelinPincushion",
+      "Price": 10000.0,
+      "ID": 4006,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LaserSight",
+      "Price": 50000.0,
+      "ID": 4007,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LeatherGlove(BackHand)",
+      "Price": 10000.0,
+      "ID": 4008,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LeatherGlove(FrontHand)",
+      "Price": 10000.0,
+      "ID": 4009,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Metronome",
+      "Price": 300000.0,
+      "ID": 4010,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "MinionFang",
+      "Price": 30000.0,
+      "ID": 4011,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ModelBone",
+      "Price": 10000.0,
+      "ID": 4012,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "MorphGem",
+      "Price": 10000.0,
+      "ID": 4013,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Nature'sStar",
+      "Price": 10000.0,
+      "ID": 4014,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Orion'sQuiver",
+      "Price": 10000.0,
+      "ID": 4015,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PhantomSphere",
+      "Price": 150000.0,
+      "ID": 4016,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "GrenadeCore",
+      "Price": 10000.0,
+      "ID": 4017,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "QuestionableSubstance",
+      "Price": 200000.0,
+      "ID": 4018,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "SkywardHilt",
+      "Price": 25000.0,
+      "ID": 4019,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "SwordEnlarger",
+      "Price": 200000.0,
+      "ID": 4020,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "SwordmastersSeal",
+      "Price": 2500000.0,
+      "ID": 4021,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TheBlueSphere",
+      "Price": 50000.0,
+      "ID": 4022,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Thrower'sBagofTricks",
+      "Price": 100000.0,
+      "ID": 4023,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TransmutationGem",
+      "Price": 250000.0,
+      "ID": 4024,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FrogSprungBoots",
+      "Price": 10000.0,
+      "ID": 4025,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "VileEmblem",
+      "Price": 750000.0,
+      "ID": 4026,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "WhiteGlove(BackHand)",
+      "Price": 10000.0,
+      "ID": 4027,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "WhiteGlove(FrontHand)",
+      "Price": 10000.0,
+      "ID": 4028,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AdamantiteArrow",
+      "Price": 5.0,
+      "ID": 4029,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BouncyArrow",
+      "Price": 20.0,
+      "ID": 4030,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "CactusArrow",
+      "Price": 5.0,
+      "ID": 4031,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "CobaltArrow",
+      "Price": 5.0,
+      "ID": 4032,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FinnedArrow",
+      "Price": 20.0,
+      "ID": 4033,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "GlassBullet",
+      "Price": 1.0,
+      "ID": 4034,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "GunArrow",
+      "Price": 5.0,
+      "ID": 4035,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HelixBullet",
+      "Price": 1.0,
+      "ID": 4036,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "MythrilArrow",
+      "Price": 5.0,
+      "ID": 4037,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "NanoDart",
+      "Price": 10.0,
+      "ID": 4038,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "OrichalcumBullet",
+      "Price": 1.0,
+      "ID": 4039,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PalladiumBullet",
+      "Price": 1.0,
+      "ID": 4040,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ReverseArrow",
+      "Price": 5.0,
+      "ID": 4041,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TeleportationArrow(Jump)",
+      "Price": 500.0,
+      "ID": 4042,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TeleportationArrow(Grab)",
+      "Price": 500.0,
+      "ID": 4043,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TeleportationArrow(Swap)",
+      "Price": 500.0,
+      "ID": 4044,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TitaniumBullet",
+      "Price": 1.0,
+      "ID": 4045,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "VenomDart",
+      "Price": 10.0,
+      "ID": 4046,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AncientBlade",
+      "Price": 150000.0,
+      "ID": 4047,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AncientEmblem",
+      "Price": 10.0,
+      "ID": 4048,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AncientGemstone",
+      "Price": 150000.0,
+      "ID": 4049,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AncientLongbow",
+      "Price": 150000.0,
+      "ID": 4050,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 4051,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AncientMachineTrophy",
+      "Price": 50000.0,
+      "ID": 4052,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AncientMiner",
+      "Price": 25000.0,
+      "ID": 4053,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AncientMinionStaff",
+      "Price": 150000.0,
+      "ID": 4054,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AncientMissileStaff",
+      "Price": 150000.0,
+      "ID": 4055,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "MusicBox(Builttodestroy)",
+      "Price": 100000.0,
+      "ID": 4056,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Shapeshift:AncientNuke",
+      "Price": 150000.0,
+      "ID": 4057,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AncientSniper",
+      "Price": 150000.0,
+      "ID": 4058,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AncientThrow",
+      "Price": 150000.0,
+      "ID": 4059,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AncientWave",
+      "Price": 150000.0,
+      "ID": 4060,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BionicEye",
+      "Price": 250000.0,
+      "ID": 4061,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BionicImplants",
+      "Price": 250000.0,
+      "ID": 4062,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BionicLimbs",
+      "Price": 250000.0,
+      "ID": 4063,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ClayKneecaps",
+      "Price": 30000.0,
+      "ID": 4064,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ClayMask",
+      "Price": 30000.0,
+      "ID": 4065,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ClayPlate",
+      "Price": 30000.0,
+      "ID": 4066,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DuelistHeadband",
+      "Price": 50000.0,
+      "ID": 4067,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DuelistPants",
+      "Price": 50000.0,
+      "ID": 4068,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DuelistShirt",
+      "Price": 50000.0,
+      "ID": 4069,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "GlassAbsorber",
+      "Price": 10000.0,
+      "ID": 4070,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "GlassHelm",
+      "Price": 10000.0,
+      "ID": 4071,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "GlassLimbguards",
+      "Price": 10000.0,
+      "ID": 4072,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LuneBracelet",
+      "Price": 10000.0,
+      "ID": 4073,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LuneCrestplate",
+      "Price": 30000.0,
+      "ID": 4074,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LuneHat",
+      "Price": 20000.0,
+      "ID": 4075,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LuneJacket",
+      "Price": 30000.0,
+      "ID": 4076,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LuneLeggings",
+      "Price": 25000.0,
+      "ID": 4077,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumBracelet",
+      "Price": 10000.0,
+      "ID": 4078,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumCap",
+      "Price": 50000.0,
+      "ID": 4079,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumChestplate",
+      "Price": 50000.0,
+      "ID": 4080,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumGreaves",
+      "Price": 50000.0,
+      "ID": 4081,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumHat",
+      "Price": 50000.0,
+      "ID": 4082,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumHeadband",
+      "Price": 50000.0,
+      "ID": 4083,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumMask",
+      "Price": 50000.0,
+      "ID": 4084,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShamanWarplate",
+      "Price": 50000.0,
+      "ID": 4085,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShamanSkull",
+      "Price": 50000.0,
+      "ID": 4086,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShamanPants",
+      "Price": 50000.0,
+      "ID": 4087,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TankCommanderHelmet",
+      "Price": 100000.0,
+      "ID": 4088,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TankCommanderUniform",
+      "Price": 100000.0,
+      "ID": 4089,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TankCommanderPants",
+      "Price": 100000.0,
+      "ID": 4090,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "EtimsicHalfPlate",
+      "Price": 120000.0,
+      "ID": 4091,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "EtimsicRobes",
+      "Price": 90000.0,
+      "ID": 4092,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "EtimsicFacemask",
+      "Price": 60000.0,
+      "ID": 4093,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "VitallumCore",
+      "Price": 10000.0,
+      "ID": 4094,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "VitallumCore",
+      "Price": 10000.0,
+      "ID": 4095,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "VitallumHeadress",
+      "Price": 300000.0,
+      "ID": 4096,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "VitallumJeans",
+      "Price": 300000.0,
+      "ID": 4097,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "VitallumLifeguard",
+      "Price": 300000.0,
+      "ID": 4098,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 4099,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PossesingBow",
+      "Price": 750000.0,
+      "ID": 4100,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "SoulRod",
+      "Price": 500.0,
+      "ID": 4101,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "GiantBow",
+      "Price": 750000.0,
+      "ID": 4102,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "MusicBox(E.P.I.C.)",
+      "Price": 100000.0,
+      "ID": 4103,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "O.L.O.R.D.summon",
+      "Price": 10.0,
+      "ID": 4104,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BlackHoleStaff",
+      "Price": 750000.0,
+      "ID": 4105,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RodofCommand",
+      "Price": 750000.0,
+      "ID": 4106,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PlasmaCannon",
+      "Price": 750000.0,
+      "ID": 4107,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Jabber",
+      "Price": 750000.0,
+      "ID": 4108,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TheDevourer",
+      "Price": 750000.0,
+      "ID": 4109,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AntiAirBanner",
+      "Price": 1000.0,
+      "ID": 4110,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HighPreistBanner",
+      "Price": 1000.0,
+      "ID": 4111,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "MollusketBanner",
+      "Price": 1000.0,
+      "ID": 4112,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressHarpyBanner",
+      "Price": 1000.0,
+      "ID": 4113,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "GuardTileBanner",
+      "Price": 1000.0,
+      "ID": 4114,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "EnchantedTileBanner",
+      "Price": 1000.0,
+      "ID": 4115,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "SneakingGhostBanner",
+      "Price": 1000.0,
+      "ID": 4116,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressSwarmerBanner",
+      "Price": 1000.0,
+      "ID": 4117,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TriceratankBanner",
+      "Price": 1000.0,
+      "ID": 4118,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "UtahBanner",
+      "Price": 1000.0,
+      "ID": 4119,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "VelocichopperBanner",
+      "Price": 1000.0,
+      "ID": 4120,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Arsenal",
+      "Price": 500000.0,
+      "ID": 4121,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 4122,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "IconoftheConqueror",
+      "Price": 10.0,
+      "ID": 4123,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ImperiousTrophy",
+      "Price": 50000.0,
+      "ID": 4124,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BladedArrow",
+      "Price": 500000.0,
+      "ID": 4125,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BladedArrowShaft",
+      "Price": 500000.0,
+      "ID": 4126,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Impelial",
+      "Price": 500000.0,
+      "ID": 4127,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Imperious'sSheath",
+      "Price": 200000.0,
+      "ID": 4128,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ImperiousTheIV",
+      "Price": 500000.0,
+      "ID": 4129,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Imperium",
+      "Price": 500000.0,
+      "ID": 4130,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "MusicBox(BladeofaGod)",
+      "Price": 100000.0,
+      "ID": 4131,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TheLongswordStaff",
+      "Price": 500000.0,
+      "ID": 4132,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShapeShift:Swordquake",
+      "Price": 500000.0,
+      "ID": 4133,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "SwordsmanBadge",
+      "Price": 500000.0,
+      "ID": 4134,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Swordpocalypse",
+      "Price": 500000.0,
+      "ID": 4135,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "CephalopodSlurry",
+      "Price": 2500.0,
+      "ID": 4136,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DodgePotion",
+      "Price": 10.0,
+      "ID": 4137,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Luneshine",
+      "Price": 10.0,
+      "ID": 4138,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PiercePotion",
+      "Price": 1000.0,
+      "ID": 4139,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RushPotion",
+      "Price": 10.0,
+      "ID": 4140,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ThrowReductionPotion",
+      "Price": 10.0,
+      "ID": 4141,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TwistedPotion",
+      "Price": 1000.0,
+      "ID": 4142,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PugMask",
+      "Price": 10.0,
+      "ID": 4143,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Urizel",
+      "Price": 10.0,
+      "ID": 4144,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "WaveOfDeathUrizel",
+      "Price": 10.0,
+      "ID": 4145,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "God'ssmite",
+      "Price": 10.0,
+      "ID": 4146,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Raz'sCryonicBolt",
+      "Price": 10.0,
+      "ID": 4147,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DragonscaleChestplate",
+      "Price": 10.0,
+      "ID": 4148,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DragonscaleLeggings",
+      "Price": 10.0,
+      "ID": 4149,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DragonscaleHelm",
+      "Price": 10.0,
+      "ID": 4150,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "SUS'sFishbowl",
+      "Price": 10.0,
+      "ID": 4151,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AntiAirSentryWrench",
+      "Price": 25000.0,
+      "ID": 4152,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DinoBone",
+      "Price": 30000.0,
+      "ID": 4153,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DinoEgg",
+      "Price": 10.0,
+      "ID": 4154,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AnkylosaurusTail",
+      "Price": 500000.0,
+      "ID": 4155,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DinoTooth",
+      "Price": 10000.0,
+      "ID": 4156,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DinoVulcan",
+      "Price": 500000.0,
+      "ID": 4157,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "MusicBox(OldDinosNewGuns)",
+      "Price": 100000.0,
+      "ID": 4158,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TheTyrant'sExtinctionGun",
+      "Price": 500000.0,
+      "ID": 4159,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Tricerashield",
+      "Price": 10000.0,
+      "ID": 4160,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "CustomDye:Shirt",
+      "Price": 150000.0,
+      "ID": 4161,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "CustomDye:Underhirt",
+      "Price": 150000.0,
+      "ID": 4162,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "CustomDye:Pants",
+      "Price": 150000.0,
+      "ID": 4163,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "CustomDye:Shoe",
+      "Price": 150000.0,
+      "ID": 4164,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Doppleganger",
+      "Price": 500000.0,
+      "ID": 4165,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Etims",
+      "Price": 10000.0,
+      "ID": 4166,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TheMassacre",
+      "Price": 120000.0,
+      "ID": 4167,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "EyeofDarkness",
+      "Price": 500000.0,
+      "ID": 4168,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShapeShifte:GodofBlasphemy",
+      "Price": 120000.0,
+      "ID": 4169,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "MusicBox(TheGodsBleed)",
+      "Price": 100000.0,
+      "ID": 4170,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 4171,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Noscopescope",
+      "Price": 10000.0,
+      "ID": 4172,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RitualInterrupter",
+      "Price": 10.0,
+      "ID": 4173,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShieldMinionStaff",
+      "Price": 120000.0,
+      "ID": 4174,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShotgunofExcessiveForce",
+      "Price": 120000.0,
+      "ID": 4175,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "StaffOfJob",
+      "Price": 120000.0,
+      "ID": 4176,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressCrate",
+      "Price": 10.0,
+      "ID": 4177,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumCrate",
+      "Price": 10.0,
+      "ID": 4178,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Flashlight",
+      "Price": 10000.0,
+      "ID": 4179,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BeakSpinner",
+      "Price": 150000.0,
+      "ID": 4180,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BeakTippedFlechettes",
+      "Price": 150000.0,
+      "ID": 4181,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BeakTippedJavelin",
+      "Price": 150000.0,
+      "ID": 4182,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressHarpyBeak",
+      "Price": 2500.0,
+      "ID": 4183,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressHarpyFeather",
+      "Price": 125000.0,
+      "ID": 4184,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressHarpyWings",
+      "Price": 400000.0,
+      "ID": 4185,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "CaeliteArmor",
+      "Price": 30000.0,
+      "ID": 4186,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "CaeliteGreaves",
+      "Price": 30000.0,
+      "ID": 4187,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "CaeliteHelm",
+      "Price": 30000.0,
+      "ID": 4188,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AngelicTracker",
+      "Price": 50000.0,
+      "ID": 4189,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "CaeliteBullet",
+      "Price": 1.0,
+      "ID": 4190,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FlaskofCaeliteWrath",
+      "Price": 2500.0,
+      "ID": 4191,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RestlessSun",
+      "Price": 50000.0,
+      "ID": 4192,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "CaelitePickaxe",
+      "Price": 25000.0,
+      "ID": 4193,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DivineHailKnife",
+      "Price": 50000.0,
+      "ID": 4194,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "SkySpiralStaff",
+      "Price": 25000.0,
+      "ID": 4195,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DivineBlade",
+      "Price": 25000.0,
+      "ID": 4196,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HolyExiler",
+      "Price": 50000.0,
+      "ID": 4197,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PriestStaff",
+      "Price": 25000.0,
+      "ID": 4198,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "SacredDaze",
+      "Price": 50000.0,
+      "ID": 4199,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "SkyShot",
+      "Price": 50000.0,
+      "ID": 4200,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "EnchantedSwimmer",
+      "Price": 15000.0,
+      "ID": 4201,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShiningCore",
+      "Price": 25000.0,
+      "ID": 4202,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DivineLightMask",
+      "Price": 10.0,
+      "ID": 4203,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ChaliceoftheLight",
+      "Price": 50000.0,
+      "ID": 4204,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 4205,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PendantoftheSkyGod",
+      "Price": 10000.0,
+      "ID": 4206,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DivineLightTrophy",
+      "Price": 50000.0,
+      "ID": 4207,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Lightling",
+      "Price": 275000.0,
+      "ID": 4208,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "MusicBox(HigherBeing)",
+      "Price": 100000.0,
+      "ID": 4209,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "GaleSwiftHelm",
+      "Price": 37500.0,
+      "ID": 4210,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "GaleSwiftplate",
+      "Price": 37500.0,
+      "ID": 4211,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "GaleSwiftRobes",
+      "Price": 37500.0,
+      "ID": 4212,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "MusicBox(HeavenlyFortress)",
+      "Price": 100000.0,
+      "ID": 4213,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TileStaff",
+      "Price": 150000.0,
+      "ID": 4214,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HydraArrow",
+      "Price": 5.0,
+      "ID": 4215,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 4216,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Shapeshift:HydraBarrage",
+      "Price": 250000.0,
+      "ID": 4217,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HydraBeam",
+      "Price": 250000.0,
+      "ID": 4218,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HydraCannon",
+      "Price": 250000.0,
+      "ID": 4219,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HydraCharm",
+      "Price": 10000.0,
+      "ID": 4220,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HydraHeadStaff",
+      "Price": 250000.0,
+      "ID": 4221,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HydraHelmet",
+      "Price": 50000.0,
+      "ID": 4222,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HydraHook",
+      "Price": 50000.0,
+      "ID": 4223,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HydraJavelin",
+      "Price": 250000.0,
+      "ID": 4224,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HydraLeggings",
+      "Price": 50000.0,
+      "ID": 4225,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HydraScale",
+      "Price": 500.0,
+      "ID": 4226,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HydraScalemail",
+      "Price": 50000.0,
+      "ID": 4227,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HydraFood",
+      "Price": 10.0,
+      "ID": 4228,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TheHydrator",
+      "Price": 25000.0,
+      "ID": 4229,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HydraTrophy",
+      "Price": 50000.0,
+      "ID": 4230,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HydraWings",
+      "Price": 250000.0,
+      "ID": 4231,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FireHydrent",
+      "Price": 250000.0,
+      "ID": 4232,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Hydrill",
+      "Price": 250000.0,
+      "ID": 4233,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "MusicBox(BeastofThreeHeads)",
+      "Price": 100000.0,
+      "ID": 4234,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AggroScroll",
+      "Price": 500000.0,
+      "ID": 4235,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Rune",
+      "Price": 500.0,
+      "ID": 4236,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HyperRunestone",
+      "Price": 500000.0,
+      "ID": 4237,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "IceScroll",
+      "Price": 500000.0,
+      "ID": 4238,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LeechScroll",
+      "Price": 500000.0,
+      "ID": 4239,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "MusicBox(TheConjurer)",
+      "Price": 100000.0,
+      "ID": 4240,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PursuitScroll",
+      "Price": 500000.0,
+      "ID": 4241,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 4242,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RuneGhostMask",
+      "Price": 10.0,
+      "ID": 4243,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RunicRobe",
+      "Price": 10.0,
+      "ID": 4244,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "SummoningRune",
+      "Price": 10.0,
+      "ID": 4245,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "CaeliteBar",
+      "Price": 20000.0,
+      "ID": 4246,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LuneBar",
+      "Price": 20000.0,
+      "ID": 4247,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumBar",
+      "Price": 10000.0,
+      "ID": 4248,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DecorativePlant",
+      "Price": 10000.0,
+      "ID": 4249,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Fan",
+      "Price": 30000.0,
+      "ID": 4250,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressBathtub",
+      "Price": 250.0,
+      "ID": 4251,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressBed",
+      "Price": 250.0,
+      "ID": 4252,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressBench",
+      "Price": 250.0,
+      "ID": 4253,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressBookcase",
+      "Price": 250.0,
+      "ID": 4254,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressCandelabra",
+      "Price": 250.0,
+      "ID": 4255,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressCandle",
+      "Price": 250.0,
+      "ID": 4256,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressChair",
+      "Price": 250.0,
+      "ID": 4257,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressChandelier",
+      "Price": 250.0,
+      "ID": 4258,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressClock",
+      "Price": 250.0,
+      "ID": 4259,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressCouch",
+      "Price": 250.0,
+      "ID": 4260,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressDoor",
+      "Price": 250.0,
+      "ID": 4261,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressDresser",
+      "Price": 250.0,
+      "ID": 4262,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressLamp",
+      "Price": 250.0,
+      "ID": 4263,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressLantern",
+      "Price": 250.0,
+      "ID": 4264,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressPiano",
+      "Price": 250.0,
+      "ID": 4265,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressSink",
+      "Price": 250.0,
+      "ID": 4266,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressTable",
+      "Price": 250.0,
+      "ID": 4267,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DnasPaintedFortressBrick",
+      "Price": 10.0,
+      "ID": 4268,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DnasLantern",
+      "Price": 250.0,
+      "ID": 4269,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DnasTransmutator",
+      "Price": 2000.0,
+      "ID": 4270,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "EnchantedFortressBrick",
+      "Price": 10.0,
+      "ID": 4271,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "CaelitePulseTrap",
+      "Price": 10.0,
+      "ID": 4272,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Launchpad",
+      "Price": 10.0,
+      "ID": 4273,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Dnas",
+      "Price": 10.0,
+      "ID": 4274,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressMirror",
+      "Price": 1000.0,
+      "ID": 4275,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ChiseledFortressBrick",
+      "Price": 10.0,
+      "ID": 4276,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressBrick",
+      "Price": 10.0,
+      "ID": 4277,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressCarving",
+      "Price": 10.0,
+      "ID": 4278,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressCarving",
+      "Price": 10.0,
+      "ID": 4279,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressCarving",
+      "Price": 10.0,
+      "ID": 4280,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressPillar",
+      "Price": 10.0,
+      "ID": 4281,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressPlatform",
+      "Price": 10.0,
+      "ID": 4282,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FortressWall",
+      "Price": 10.0,
+      "ID": 4283,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Illuminator",
+      "Price": 2000.0,
+      "ID": 4284,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LuneOre",
+      "Price": 100.0,
+      "ID": 4285,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumOre",
+      "Price": 100.0,
+      "ID": 4286,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Transmutator",
+      "Price": 2000.0,
+      "ID": 4287,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "VerticalFan",
+      "Price": 30000.0,
+      "ID": 4288,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "WoodenMirror",
+      "Price": 1000.0,
+      "ID": 4289,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FrostCompass",
+      "Price": 20000.0,
+      "ID": 4290,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PenguinClub",
+      "Price": 100000.0,
+      "ID": 4291,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PenguinGenerator",
+      "Price": 100000.0,
+      "ID": 4292,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PenguinLauncher",
+      "Price": 100000.0,
+      "ID": 4293,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PenguinWhistle",
+      "Price": 100000.0,
+      "ID": 4294,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PolarExterminatorMask",
+      "Price": 10.0,
+      "ID": 4295,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PolarExterminatorTrophy",
+      "Price": 50000.0,
+      "ID": 4296,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 4297,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HighHeels",
+      "Price": 1000.0,
+      "ID": 4298,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LeatherBelt",
+      "Price": 1000.0,
+      "ID": 4299,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Women'sboots",
+      "Price": 1000.0,
+      "ID": 4300,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Men'sBoots",
+      "Price": 1000.0,
+      "ID": 4301,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Women'sShoes",
+      "Price": 1000.0,
+      "ID": 4302,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Men'sShoes",
+      "Price": 1000.0,
+      "ID": 4303,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Miniskirt",
+      "Price": 1000.0,
+      "ID": 4304,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Shorts",
+      "Price": 1000.0,
+      "ID": 4305,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BarrelCactus",
+      "Price": 1000.0,
+      "ID": 4306,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Cactum",
+      "Price": 1800.0,
+      "ID": 4307,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "CactusNeedle",
+      "Price": 10.0,
+      "ID": 4308,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "SupportCactusStaff",
+      "Price": 1800.0,
+      "ID": 4309,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ChromeShotgun",
+      "Price": 500000.0,
+      "ID": 4310,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BloodSeeker",
+      "Price": 15000.0,
+      "ID": 4311,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BloodTuner",
+      "Price": 13500.0,
+      "ID": 4312,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DarkDrop",
+      "Price": 13500.0,
+      "ID": 4313,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PlagueFlechettes",
+      "Price": 15000.0,
+      "ID": 4314,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BubbleBrewerBaton",
+      "Price": 250000.0,
+      "ID": 4315,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Cyclone",
+      "Price": 250000.0,
+      "ID": 4316,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShapeShifte:S.S.Hurricane",
+      "Price": 120000.0,
+      "ID": 4317,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Whirlpool",
+      "Price": 250000.0,
+      "ID": 4318,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AmuletOfPatience",
+      "Price": 27000.0,
+      "ID": 4319,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Aqueous",
+      "Price": 27000.0,
+      "ID": 4320,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "StreamMiner",
+      "Price": 27000.0,
+      "ID": 4321,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Hydrospear",
+      "Price": 27000.0,
+      "ID": 4322,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LaunchingHook",
+      "Price": 50000.0,
+      "ID": 4323,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RiptideSentryStaff",
+      "Price": 27000.0,
+      "ID": 4324,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "GlassBlade",
+      "Price": 10000.0,
+      "ID": 4325,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShapeShift:Glasscannon",
+      "Price": 10000.0,
+      "ID": 4326,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "GlassSpikeStaff",
+      "Price": 10000.0,
+      "ID": 4327,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FrogGrenade",
+      "Price": 50000.0,
+      "ID": 4328,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ManEaterStaff",
+      "Price": 27000.0,
+      "ID": 4329,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LuneArcherStaff",
+      "Price": 20000.0,
+      "ID": 4330,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LuneBoomerang",
+      "Price": 20000.0,
+      "ID": 4331,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LuneStaff",
+      "Price": 20000.0,
+      "ID": 4332,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LuneTop",
+      "Price": 20000.0,
+      "ID": 4333,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LuneTrickshooter",
+      "Price": 20000.0,
+      "ID": 4334,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShapeShift:Hovercraft!",
+      "Price": 20000.0,
+      "ID": 4335,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "MeteorGrenade",
+      "Price": 20000.0,
+      "ID": 4336,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "SpaceFighterStaff",
+      "Price": 20000.0,
+      "ID": 4337,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "GoldBoomerang",
+      "Price": 9000.0,
+      "ID": 4338,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PlatinumBoomerang",
+      "Price": 13500.0,
+      "ID": 4339,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "BloomingBow",
+      "Price": 231426.0,
+      "ID": 4340,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "DeathString",
+      "Price": 54000.0,
+      "ID": 4341,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FossilBow",
+      "Price": 25000.0,
+      "ID": 4342,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RuneLongbow",
+      "Price": 500000.0,
+      "ID": 4343,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ChaosRifle",
+      "Price": 250000.0,
+      "ID": 4344,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ChargingShotgun",
+      "Price": 500000.0,
+      "ID": 4345,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RunicSniper",
+      "Price": 500000.0,
+      "ID": 4346,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "SandStorm",
+      "Price": 500000.0,
+      "ID": 4347,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ColdFront",
+      "Price": 54000.0,
+      "ID": 4348,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ConjureBone",
+      "Price": 10000.0,
+      "ID": 4349,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "FrostburnStaff",
+      "Price": 10000.0,
+      "ID": 4350,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HydraMissileRod",
+      "Price": 250000.0,
+      "ID": 4351,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PursuitRuneStaff",
+      "Price": 500000.0,
+      "ID": 4352,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RingofGuns",
+      "Price": 500000.0,
+      "ID": 4353,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RunicWave",
+      "Price": 500000.0,
+      "ID": 4354,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Steambath",
+      "Price": 80000.0,
+      "ID": 4355,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AdamantitePunnisherstaff",
+      "Price": 138000.0,
+      "ID": 4356,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AshFellStaff",
+      "Price": 54000.0,
+      "ID": 4357,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ChlorophyteSentryStaff",
+      "Price": 226000.0,
+      "ID": 4358,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ChlorophyteSniperStaff",
+      "Price": 226000.0,
+      "ID": 4359,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "GoldDaggerStaff",
+      "Price": 9000.0,
+      "ID": 4360,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "HallowedSentryStaff",
+      "Price": 212000.0,
+      "ID": 4361,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "MiniTankStaff",
+      "Price": 200000.0,
+      "ID": 4362,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "MythrilPrismStaff",
+      "Price": 103500.0,
+      "ID": 4363,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "OrichalcumDrifterStaff",
+      "Price": 126500.0,
+      "ID": 4364,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PlatinumDaggerStaff",
+      "Price": 13500.0,
+      "ID": 4365,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "LeechRuneStaff",
+      "Price": 500000.0,
+      "ID": 4366,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TitaniumGrinderstaff",
+      "Price": 161000.0,
+      "ID": 4367,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RuneBlade",
+      "Price": 500000.0,
+      "ID": 4368,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RuneMiner",
+      "Price": 500000.0,
+      "ID": 4369,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Aracnoyo",
+      "Price": 50000.0,
+      "ID": 4370,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RunicThrow",
+      "Price": 500000.0,
+      "ID": 4371,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PumpkinWeaver",
+      "Price": 1000.0,
+      "ID": 4372,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Pumpgun",
+      "Price": 1000.0,
+      "ID": 4373,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PumpkinPike",
+      "Price": 1000.0,
+      "ID": 4374,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Jack-o'-lanternStaff",
+      "Price": 1000.0,
+      "ID": 4375,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumArrow",
+      "Price": 5.0,
+      "ID": 4376,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Shapeshift:RhuthiniumBarrage",
+      "Price": 25000.0,
+      "ID": 4377,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumBoomerang",
+      "Price": 25000.0,
+      "ID": 4378,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumDoubow",
+      "Price": 25000.0,
+      "ID": 4379,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumDart",
+      "Price": 10.0,
+      "ID": 4380,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumGuardianStaff",
+      "Price": 25000.0,
+      "ID": 4381,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumHamaxe",
+      "Price": 25000.0,
+      "ID": 4382,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumJavelin",
+      "Price": 25000.0,
+      "ID": 4383,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumLance",
+      "Price": 25000.0,
+      "ID": 4384,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumPickaxe",
+      "Price": 25000.0,
+      "ID": 4385,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumRod",
+      "Price": 25000.0,
+      "ID": 4386,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumScepter",
+      "Price": 25000.0,
+      "ID": 4387,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumSword",
+      "Price": 25000.0,
+      "ID": 4388,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "RhuthiniumVaporizer",
+      "Price": 25000.0,
+      "ID": 4389,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShapeShift:Anvil!",
+      "Price": 200.0,
+      "ID": 4390,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShapeShift:Bunny",
+      "Price": 200.0,
+      "ID": 4391,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShapeShift:Cthulhu'sStare",
+      "Price": 10000.0,
+      "ID": 4392,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShapeShift:Lasershark!",
+      "Price": 200.0,
+      "ID": 4393,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "NewClassDamageTest",
+      "Price": 10000.0,
+      "ID": 4394,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Shapeshift:RuneNuke",
+      "Price": 500000.0,
+      "ID": 4395,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShapeShift:SkullCopter",
+      "Price": 350000.0,
+      "ID": 4396,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShapeShift:TheSpazer'sEye",
+      "Price": 350000.0,
+      "ID": 4397,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShapeShift:SpikedSlime",
+      "Price": 150000.0,
+      "ID": 4398,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShapeShift:Tank!",
+      "Price": 200000.0,
+      "ID": 4399,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShapeShift:ThornMass",
+      "Price": 27000.0,
+      "ID": 4400,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "GunChakram",
+      "Price": 50000.0,
+      "ID": 4401,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShroomiteJavelin",
+      "Price": 50000.0,
+      "ID": 4402,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "ShrooiteTurretStaff",
+      "Price": 50000.0,
+      "ID": 4403,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "SpectreFlechettes",
+      "Price": 500000.0,
+      "ID": 4404,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "AdamantiteThrowingHand",
+      "Price": 800000.0,
+      "ID": 4405,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "CobaltShuriken",
+      "Price": 100000.0,
+      "ID": 4406,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "Flechettes",
+      "Price": 30000.0,
+      "ID": 4407,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "MythrilTop",
+      "Price": 100000.0,
+      "ID": 4408,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "OrichalcumBall",
+      "Price": 100000.0,
+      "ID": 4409,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "PalladiumFlechettes",
+      "Price": 100000.0,
+      "ID": 4410,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
+    },
+    {
+      "Name": "TitaniumKnife",
+      "Price": 100000.0,
+      "ID": 4411,
+      "Mod": "QwertysRandomContent.QwertysRandomContent"
     }
   ]
 }
